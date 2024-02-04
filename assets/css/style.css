@@ -1123,7 +1123,10 @@ right: 50%;
     .btn__share{
         display: none;
     }
-
+   .home__social-follow,
+    .home__social-link{
+          font-size: 1.8rem;
+    } 
     .nav__menu {
         height: 100%;
         width: 100%;
