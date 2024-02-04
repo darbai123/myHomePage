@@ -1140,8 +1140,10 @@ right: 50%;
     align-items: center;
 }
 .nav__link{
-    padding: 1rem 0;
-    line-height: 1.5;
+    padding: 3rem 0;
+    line-height: .5;
+    font-size: 30px;
+    font-weight: 400;
 }
 .nav__link.active-link::after, .nav__link:hover::after{
     bottom: 0;
@@ -1149,12 +1151,12 @@ right: 50%;
 .nav__close{
     display: block;
 }
-.nav__close{
-    display: block;
-}
+
 .nav__toggle{
     display: flex;
     z-index: 10;
+     width: 60px;
+    height: 60px;
 }
 
 .main {
