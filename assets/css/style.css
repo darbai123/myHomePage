@@ -1123,11 +1123,7 @@ right: 50%;
     .btn__share{
         display: none;
     }
-    .home__social{
-        padding-left: 4px;  
-    }
 
-    
     .nav__menu {
         height: 100%;
         width: 100%;
@@ -1145,7 +1141,6 @@ right: 50%;
     padding: 3rem 0;
     line-height: 0.5;
    font-size: 20px;
-   
 }
 .nav__link.active-link::after, .nav__link:hover::after{
     bottom: 0;
