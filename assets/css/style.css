@@ -1123,10 +1123,22 @@ right: 50%;
     .btn__share{
         display: none;
     }
-   .home__social-follow,
-    .home__social-link{
-          font-size: 1.8rem;
-    } 
+   .home__social{
+        padding-left: 4px;  
+    }
+    .home__social-follow{
+        font-size: 30px;   
+       
+    }
+    .home__social-links{
+        padding: 0 0 0  30px;
+        row-gap: 1.25rem;
+    }
+     .home__social-link{
+        margin: -10px;
+        font-size: 30px;
+        padding-left: 30px;
+    }
     .nav__menu {
         height: 100%;
         width: 100%;
