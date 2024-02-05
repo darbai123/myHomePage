@@ -1225,7 +1225,7 @@ right: 50%;
 /* For Medium Devices */
 @media screen and (max-width: 768px) {
      .nav__link{
-        padding: 2rem 0;
+        padding: 1.5rem 0;
         line-height: .5;
        font-size: 15px;
     }
@@ -1294,7 +1294,7 @@ right: 50%;
 
 @media screen and (max-width: 576px) {
     .nav__link{
-        padding: 0.5rem 0;
+        padding: 1rem 0;
         line-height: .5;
        font-size: 12px;
     }
