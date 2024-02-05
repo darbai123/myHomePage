@@ -1139,8 +1139,8 @@ right: 50%;
 }
 .nav__link{
     padding: 2rem 0;
-    line-height: 0.5;
-   font-size: 20px;
+    line-height: 1.5;
+  
 }
 .nav__link.active-link::after, .nav__link:hover::after{
     bottom: 0;
@@ -1224,11 +1224,11 @@ right: 50%;
 
 /* For Medium Devices */
 @media screen and (max-width: 768px) {
-     .nav__link{
+/*      .nav__link{
         padding: 1.5rem 0;
         line-height: .5;
        font-size: 15px;
-    }
+    } */
     .about__img{
         width: 250px;
     }
@@ -1293,11 +1293,11 @@ right: 50%;
 }
 
 @media screen and (max-width: 576px) {
-    .nav__link{
+/*     .nav__link{
         padding: 1rem 0;
         line-height: .5;
        font-size: 12px;
-    }
+    } */
     .nav__toggle{
         right: initial;
         right: .5rem;
@@ -1378,11 +1378,11 @@ right: 50%;
 
 /* For Small Devices */
 @media screen and (max-width: 350px) {
-      .nav__link{
+/*       .nav__link{
         padding: 1rem 0;
         line-height: .5;
        font-size: 10px;
-    }
+    } */
     .container{
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
