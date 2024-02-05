@@ -1126,19 +1126,7 @@ right: 50%;
     .home__social{
         padding-left: 4px;  
     }
-    .home__social-follow{
-        font-size: 30px;   
-       
-    }
-    .home__social-links{
-        padding: 0 0 0  30px;
-        row-gap: 1.25rem;
-    }
-     .home__social-link{
-        margin: -10px;
-        font-size: 30px;
-        padding-left: 30px;
-    }
+
     
     .nav__menu {
         height: 100%;
@@ -1155,16 +1143,15 @@ right: 50%;
 }
 .nav__link{
     padding: 3rem 0;
-    line-height: .5;
-    font-size: 30px;
-    font-weight: 400;
+    line-height: 1.5;
+   
+   
 }
 .nav__link.active-link::after, .nav__link:hover::after{
     bottom: 0;
 }
 .nav__close{
-    width: 60px;
-    height: 60px;
+    
     display: block;
    
 }
@@ -1172,8 +1159,7 @@ right: 50%;
 .nav__toggle{
     display: flex;
     z-index: 10;
-    width: 60px;
-    height: 60px;
+ 
 }
 
 .main {
