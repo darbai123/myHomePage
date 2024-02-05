@@ -1143,8 +1143,8 @@ right: 50%;
 }
 .nav__link{
     padding: 3rem 0;
-    line-height: 1.5;
-   
+    line-height: 0.5;
+   font-size: 20px;
    
 }
 .nav__link.active-link::after, .nav__link:hover::after{
