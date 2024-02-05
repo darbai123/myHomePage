@@ -192,7 +192,7 @@ button, input{
     font-weight: var(--font-medium);
     position: relative;
     transition: .4s;
-    
+    font-size: 14px;
 }  
 .language__small__screen{
     display:none
