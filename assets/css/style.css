@@ -674,18 +674,18 @@ skills__title{
     font-size: var(--small-font-size);
     margin-bottom: var(--mb-2);
 }
-.details__info li{
+.detals__info li{
     margin-bottom: var(--mb-0-75);
     text-transform: capitalize;
     font-size: var(--small-font-size);
 }
-.details__info li:last-child{
+.detals__info li:last-child{
     margin-bottom: 0;
 }
-.details__info li span{
+.detals__info li span{
     font-weight: normal;
 }
-.details__info li a{
+.detals__info li a{
     text-transform: lowercase;
     color: var(--skin-color);
 }
