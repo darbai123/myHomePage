@@ -259,6 +259,22 @@ nav__linkk{
     right: 0;
     margin: auto;
 } 
+/* Active Link */
+.nav__linkk.active-link, .nav__linkk:hover{
+    color: var(--skin-color);
+}
+.nav__linkk.active-link::after, .nav__linkk:hover::after{
+    position: absolute;
+    content: '';
+    width: 6px;
+    height: 6px;
+    background-color: var(--skin-color);
+    border-radius: 50%;
+    bottom: 1.8rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+} 
 
 /*=============== MAIN ===============*/
 .main{
