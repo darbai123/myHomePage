@@ -194,7 +194,7 @@ button, input{
     transition: .4s;
    font-size: 14px;
 }  
-.nav__linkk{
+nav__linkk{
     float: right;
     height: 100%;
     line-height: 100px;
