@@ -18,7 +18,7 @@ if(navClose) {
         navMenu.classList.remove('show-sidebar')
     })
 }
-const navLinks = document.querySelectorAll('.nav__link, .nav__linkk');
+const navLinks = document.querySelectorAll('.nav__link');
 const navvvClose = document.getElementById('nav-close');
 
 navLinks.forEach(link => {
