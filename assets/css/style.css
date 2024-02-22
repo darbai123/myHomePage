@@ -195,15 +195,15 @@ button, input{
    font-size: 14px;
 }  
 .nav__linkk{
-    float: right;
+       float: right;
     height: 100%;
     line-height: 100px;
-    padding: 0 1rem;
+    padding: 0 0.7rem;
     color: var(--title-color);
     font-weight: var(--font-medium);
     position: relative;
     transition: .4s;
-   font-size: 16px;
+   font-size: 14px;
 }  
 .language__small__screen{
     display:none
