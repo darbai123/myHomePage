@@ -1173,6 +1173,14 @@ right: 50%;
 .nav__link.active-link::after, .nav__link:hover::after{
     bottom: 0;
 }
+    .nav__linkk{
+    padding: 1rem 0;
+    line-height: 1.5;
+   
+}
+.nav__linkk.active-linkk::after, .nav__linkk:hover::after{
+    bottom: 0;
+}
 .nav__close{
   
     display: block;
