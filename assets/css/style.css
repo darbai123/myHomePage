@@ -214,6 +214,7 @@ button, input{
     left: 0;
     right: 0;
     text-align: center;
+    color: var(--skin-color);
 }
 .social__share{
     font-size: 1.5rem;
