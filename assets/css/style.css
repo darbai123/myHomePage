@@ -899,7 +899,8 @@ testimonial__description{
     row-gap: 1rem;
 }
  .contact__card{
-    background-color: var(--box-color);
+    background-color: var(--body-color);
+
     padding: 1rem;
     border-radius: .5rem;
     text-align: center;
